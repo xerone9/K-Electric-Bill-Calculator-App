@@ -1,5 +1,5 @@
 # K-Electric Bill Calculator
- Kotlin App
+ Kotlin (Android Studio)
  
  Pakistan K-Electric Bill Calculator
  
